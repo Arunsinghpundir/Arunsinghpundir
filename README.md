@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on UI Based Project
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/arunsinghpundir325">LinkedIn</a>
-- ⚡ Fun fact: I am a Mechanical Engineer too😂
+- ⚡ Fun fact: I am a Mechanical Engineer too😁
