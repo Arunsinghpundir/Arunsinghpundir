@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am a Mechanical Engineer too😁
 <br/>
 
-![image title](https://rushter.com/counter.svg)
+![image title Cache-Control: max-age=0, no-cache, no-store, must-revalidate](https://rushter.com/counter.svg)
