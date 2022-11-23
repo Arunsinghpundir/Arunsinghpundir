@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arunsinghpundir&theme=dark&hide_border=true&currStreakLabel=DDDDDD)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arunsinghpundir&theme=dark&hide_border=true&currStreakLabel=DDDDDD)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunsinghpundir&layout=compact&theme=vision-friendly-dark)
 
