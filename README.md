@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on UI Based Project
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/arunsinghpundir325" target="_blank">LinkedIn</a>
 - ⚡ Fun fact: I am a Mechanical Engineer too😁
+<br/>
+
 ![image title](https://rushter.com/counter.svg)
