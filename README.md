@@ -28,7 +28,7 @@ Here are some ideas to get you started:
    <a href="https://www.hackerrank.com/arunsinghpundir1">
     <img src="https://img.shields.io/badge/hackerrank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank Badge"/>
   </a> 
-  <a href="[your-twitter-URL](https://leetcode.com/arunsinghpundir/)">
+  <a href="https://leetcode.com/arunsinghpundir">
     <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=Leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a> 
 <!--   <img src="https://komarev.com/ghpvc/?username=Arunsinghpundir&style=flat-square&color=blue" alt=""/> -->
