@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am a Mechanical Engineer too😁
 <br/>
 
-![image title Cache-Control: max-age=0, no-cache, no-store, must-revalidate](https://rushter.com/counter.svg) 
+![](https://komarev.com/ghpvc/?username=Arunsinghpundir&style=flat-square&label=Profile+Views+🤞)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
