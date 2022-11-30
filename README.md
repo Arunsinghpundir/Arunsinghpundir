@@ -28,6 +28,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Fab Quotes-white?style=for-the-badge&logo=netlify&logoColor=blue" alt="Netlify Badge"/>
   </a> 
 </div>
+    <a href="https://arunsinghpundir.github.io/Basic-Calculator/" >
+    <img src="https://img.shields.io/badge/Calculator-white?style=for-the-badge&logo=Github&logoColor=blue" alt="Netlify Badge"/>
+  </a> 
+  <div>
 </div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
