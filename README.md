@@ -12,8 +12,11 @@ Here are some ideas to get you started:
 ## I'm from India
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on UI Based Project
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/arunsinghpundir325" target="_blank">LinkedIn</a>
 - ⚡ Fun fact: I am a Mechanical Engineer too😁
+- 📫 How to reach me:
+   <a href="arunpundir.325@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=Arunsinghpundir&style=flat-square&label=Profile+Views+🤞)
