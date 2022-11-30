@@ -13,10 +13,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on UI Based Project
 - ⚡ Fun fact: I am a Mechanical Engineer too😁
-- 📫 How to reach me:
-   <a href="https://arunpundir.325@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
+- 📫 How to reach me: **arunpundir.325@gmail.com**
+  
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=Arunsinghpundir&style=flat-square&label=Profile+Views+🤞)
