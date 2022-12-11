@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## Projects
 <div >
 <a href="https://numeric-conversion.netlify.app/" >
-    <img src="https://img.shields.io/badge/Numeric Conversion-white?style=for-the-badge&logo=netlify&logoColor=blue" alt="Netlify Badge"/>
+    <img src="https://img.shields.io/badge/Numeric Converter-white?style=for-the-badge&logo=netlify&logoColor=blue" alt="Netlify Badge"/>
   </a> 
   <div>
 <a href="https://fab-quotes.netlify.app/" >
