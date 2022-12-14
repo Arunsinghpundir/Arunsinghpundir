@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Fab Quotes-white?style=for-the-badge&logo=netlify&logoColor=blue" alt="Netlify Badge"/>
   </a> 
 </div>
-    <a href="https://arunsinghpundir.github.io/Basic-Calculator/" >
+    <a href="https://calculator-reactvite.netlify.app/" >
     <img src="https://img.shields.io/badge/Calculator-white?style=for-the-badge&logo=Github&logoColor=blue" alt="Netlify Badge"/>
   </a> 
   <div>
