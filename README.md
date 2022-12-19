@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Projects
 <div >
-  <a href="https://movie-search-1oik6eonh-arunsinghpundir.vercel.app/" >
+  <a href="https://movie-search-359qk2e0c-arunsinghpundir.vercel.app/" >
     <img src="https://img.shields.io/badge/Movie Search-white?style=for-the-badge&logo=vercel&logoColor=blue" alt="Vercel Badge"/>
   </a> <br/>
 <a href="https://numeric-conversion.netlify.app/" >
