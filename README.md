@@ -21,22 +21,20 @@ Here are some ideas to get you started:
 
 ## Projects
 <div >
-  <a href="https://movie-search-app-arunsinghpundir.vercel.app/" >
+  <a href="https://movie-search-app-six-alpha.vercel.app/" >
     <img src="https://img.shields.io/badge/Movie Search-white?style=for-the-badge&logo=vercel&logoColor=blue" alt="Vercel Badge"/>
   </a> <br/>
-<a href="https://numeric-conversion.netlify.app/" >
+  <a href="https://numeric-conversion.netlify.app/" >
     <img src="https://img.shields.io/badge/Numeric Converter-white?style=for-the-badge&logo=netlify&logoColor=blue" alt="Netlify Badge"/>
-  </a> 
-  <div>
-<a href="https://fab-quotes.netlify.app/" >
-    <img src="https://img.shields.io/badge/Fab Quotes-white?style=for-the-badge&logo=netlify&logoColor=blue" alt="Netlify Badge"/>
-  </a> 
-</div>
-    <a href="https://calculator-reactvite.netlify.app/" >
+  </a> <br/>
+   <a href="https://calculator-reactvite.netlify.app/" >
     <img src="https://img.shields.io/badge/Calculator-white?style=for-the-badge&logo=Github&logoColor=blue" alt="Netlify Badge"/>
-  </a> 
-  <div>
+  </a> <br/>
+  <a href="https://fab-quotes.netlify.app/" >
+    <img src="https://img.shields.io/badge/Fab Quotes-white?style=for-the-badge&logo=netlify&logoColor=blue" alt="Netlify Badge"/>
+  </a> <br/>
 </div>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
