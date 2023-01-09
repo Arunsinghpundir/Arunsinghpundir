@@ -23,20 +23,34 @@ Here are some ideas to get you started:
 <div >
    <a href="https://meal-planner-project-js-placement-project-wvcqtzh56ao6.vercel.app/" >
     <img src="https://img.shields.io/badge/Meal Planner-white?style=for-the-badge&logo=vercel&logoColor=blue" alt="Vercel Badge"/>
-  </a> <br/>
+  </a> 
+   <a href="https://github.com/Arunsinghpundir/Meal-Planner-Project---JS-Placement-Project---wvcqtzh56ao6" >
+   <img src="https://img.shields.io/badge/&lt;&#92;&gt;-white?style=for-the-badge&logoColor=blue" alt="Vercel Badge"/></a><br/>
   <a href="https://movie-search-app-six-alpha.vercel.app/" >
     <img src="https://img.shields.io/badge/Movie Search-white?style=for-the-badge&logo=vercel&logoColor=blue" alt="Vercel Badge"/>
-  </a> <br/>
+  </a> 
+   <a href="https://github.com/Arunsinghpundir/MovieSearch-App" >
+   <img src="https://img.shields.io/badge/&lt;&#92;&gt;-white?style=for-the-badge&logoColor=blue" alt="Vercel Badge"/></a><br/>
   <a href="https://numeric-conversion.netlify.app/" >
     <img src="https://img.shields.io/badge/Numeric Converter-white?style=for-the-badge&logo=netlify&logoColor=blue" alt="Netlify Badge"/>
-  </a> <br/>
+  </a>
+   <a href="https://github.com/Arunsinghpundir/Number-Converter" >
+   <img src="https://img.shields.io/badge/&lt;&#92;&gt;-white?style=for-the-badge&logoColor=blue" alt="Vercel Badge"/></a><br/>
    <a href="https://calculator-reactvite.netlify.app/" >
     <img src="https://img.shields.io/badge/Calculator-white?style=for-the-badge&logo=Github&logoColor=blue" alt="Netlify Badge"/>
-  </a> <br/>
+  </a> 
+   <a href="https://github.com/Arunsinghpundir/Calculator-React-" >
+   <img src="https://img.shields.io/badge/&lt;&#92;&gt;-white?style=for-the-badge&logoColor=blue" alt="Vercel Badge"/></a><br/>
   <a href="https://fab-quotes.netlify.app/" >
     <img src="https://img.shields.io/badge/Fab Quotes-white?style=for-the-badge&logo=netlify&logoColor=blue" alt="Netlify Badge"/>
-  </a> <br/>
+  </a>
+    <a   href="https://github.com/Arunsinghpundir/Random-Quotes" >
+   <img src="https://img.shields.io/badge/&lt;&#92;&gt;-white?style=for-the-badge&logoColor=blue" alt="Vercel Badge"/></a>
+   <br/>
+  <br>
+  Click :star:if you like the project. Pull Requests are highly appreciated.
 </div>
+<hr>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -53,8 +67,8 @@ Here are some ideas to get you started:
   </a> 
 <!--   <img src="https://komarev.com/ghpvc/?username=Arunsinghpundir&style=flat-square&color=blue" alt=""/> -->
 </div>
+<hr>
 
-<br/>
 
   <h3>:hammer_and_wrench: Languages and Tools :</h3>
   <div>
@@ -79,7 +93,7 @@ Here are some ideas to get you started:
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
   
-
+<hr>
 <h3>:fire: My Stats :</h3>
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunsinghpundir&layout=compact&theme=vision-friendly-dark)
@@ -91,6 +105,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Arunsinghpundir"><span>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arunsinghpundir&theme=dracula" />
 </span></a> </p>
+<hr>
  <!-- GitHub Cup's   -->
  <p ><img src="https://github-profile-trophy.vercel.app/?username=arunsinghpundir&theme=vue" alt=""/> </p>
   
