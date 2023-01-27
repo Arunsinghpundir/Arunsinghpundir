@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 
 ## Projects
 <div >
+    <a href="https://redbus-clone-arun.netlify.app/" >
+    <img src="https://img.shields.io/badge/Red Bus Clone-white?style=for-the-badge&logo=netlify&logoColor=blue" alt="Vercel Badge"/>
+  </a> 
+    <a href="https://github.com/Arunsinghpundir/Redbus-Clone---React-Project---ke2y3w0fksd8" >
+   <img src="https://img.shields.io/badge/&lt;&#92;&gt;-white?style=for-the-badge&logoColor=blue" alt="Netlify Badge"/></a><br/>
+   
    <a href="https://meal-planner-project-js-placement-project-wvcqtzh56ao6.vercel.app/" >
     <img src="https://img.shields.io/badge/Meal Planner-white?style=for-the-badge&logo=vercel&logoColor=blue" alt="Vercel Badge"/>
   </a> 
