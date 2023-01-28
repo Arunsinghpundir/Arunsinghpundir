@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 ## I'm from India
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on UI Based Project
-- ⚡ Fun fact: I am a Mechanical Engineer too😁
 - 📫 How to reach me: **arunpundir.325@gmail.com**
   
 <br/>
