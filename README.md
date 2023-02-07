@@ -1,5 +1,13 @@
-## Hi there 👋
-
+<!-- ## Hi there 👋
+ -->
+ <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
+<br>
+<p align="center">
+    <h1 align="center">✩&emsp;Arun Singh Pundir&emsp;✩</h1>
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There+👋;Welcome+to+my+profile!;I'm+from+India;I'm+a+WEB+DEVELOPER!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+</p>
 <!--
 **Arunsinghpundir/Arunsinghpundir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -9,14 +17,18 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 - 💬 Ask me about ... -->
-## I'm from India
-- 🌱 I’m currently learning Web Development
-- 👯 I’m looking to collaborate on UI Based Project
-- 📫 How to reach me: **arunpundir.325@gmail.com**
-  
-<br/>
 
-![](https://komarev.com/ghpvc/?username=Arunsinghpundir&style=flat-square&label=Profile+Views+🤞)
+<!-- ## I'm from India
+- 🌱 I’m currently learning Web Development -->
+<!-- - 👯 I’m looking to collaborate on UI Based Project -->
+<!-- 📫 How to reach me: **arunpundir.325@gmail.com** -->
+ 
+<p align="center">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=Arunsinghpundir&color=grey">
+</p>
+<!-- ![](https://komarev.com/ghpvc/?username=Arunsinghpundir&style=flat-square&label=Profile+Views+🤞) -->
+
+<br>
 
 ## Projects
 <div >
@@ -56,7 +68,6 @@ Here are some ideas to get you started:
   Click :star:if you like the project. Pull Requests are highly appreciated.
 </div>
 <hr>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -83,7 +94,10 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="git" width="40" height="40"/>&nbsp;
+
   </div>
   <br/>
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp; -->
