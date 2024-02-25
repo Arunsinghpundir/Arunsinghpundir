@@ -97,6 +97,14 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="git" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="git" width="40" height="40"/>&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostGreSQL" alt="git" width="40" height="40"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="git" width="40" height="40"/>&nbsp;
+             <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="Nestjs" alt="git" width="40" height="40"/>&nbsp;
+
+
+
+
 
   </div>
   <br/>
